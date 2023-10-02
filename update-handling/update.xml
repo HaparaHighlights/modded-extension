@@ -1,1 +1,5 @@
-
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+<app appid="aceopacgaepdcelohobicpffbbejnfac">
+<updatecheck codebase="https://raw.githubusercontent.com/HaparaHighlights/modded-extension/main/update-handling/hapara.crx" version="100.0.0"/>
+</app>
+</gupdate>
