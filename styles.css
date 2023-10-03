@@ -1,0 +1,13 @@
+html {
+    background-color: black;
+    margin: 0px;
+    padding: 5px;
+}
+
+#main-heading {
+    font-family: monospace;
+}
+
+#main-heading-text {
+    font-size: 15%;
+}
