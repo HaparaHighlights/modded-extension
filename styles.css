@@ -1,4 +1,4 @@
-html {
+body {
     background-color: black;
     margin: 0px;
     padding: 5px;
@@ -6,6 +6,8 @@ html {
 
 #main-heading {
     font-family: monospace;
+    position: fixed;
+    background-color: cadetblue;
 }
 
 #main-heading-text {
